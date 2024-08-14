@@ -85,7 +85,7 @@ A comprehensive list of our current partners is available in the [partners](part
 
 For more information about CLENT Africa or to discuss potential partnerships, please contact us:
 
-- **Email**: partnerships@clentafrica.org
+- **Email**: info@clentafrica.org
 
 ## License
 
